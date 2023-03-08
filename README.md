@@ -7,6 +7,8 @@ NIM   : 2209116046
 Program di atas merupakan implementasi dari algoritma Fibonacci Search yang digunakan untuk mencari elemen yang terdapat dalam sebuah array. Program tersebut menerima dua input, yaitu array 'var' dan nilai 'x' yang akan dicari pada array 'var'. Program akan mencari nilai 'x' pada 'var' menggunakan algoritma Fibonacci Search, dimana program akan memeriksa elemen-elemen pada array 'var' secara terurut dan mengambil elemen yang memiliki indeks yang merupakan deret bilangan Fibonacci.
 
  Menu Utama
+ 
+ 
 ![Screenshot 2023-03-08 201831](https://user-images.githubusercontent.com/125839542/223711705-0be94bd7-5e90-4f21-bbdd-30b9d5d9af9c.png)
 
 Program ini dimulai dengan menyatakan Array dimana search akan dilakukan, yaitu array 'var' dan juga menanyakan kepada user apa yang ingin dcari dengan mengisi inputan variabel 'x'
@@ -20,6 +22,7 @@ Lalu setelah variabel 'x' telah input, maka dilanjutkan ke program fibonacci sea
 Setelah hasil ada tidaknya pencarian index diberikan, pengguna akana ditanya apakah sudah selesai menggunakan program atau ingin mengulang untuk mencari nama yang lain.
 
  Algoritma Searching
+ 
 
 ![Screenshot 2023-03-08 202958](https://user-images.githubusercontent.com/125839542/223713805-79832d71-87f8-411b-bb76-54ff0cbff6e6.png)
 
@@ -43,6 +46,7 @@ Setelah dijalankannya semua pencarian pada fungsi ini, Jika elemen yang dicari d
 
 
  Output Program
+ 
 
 ![Screenshot 2023-03-08 205325](https://user-images.githubusercontent.com/125839542/223718524-b3e3f074-1962-4fff-81f2-a18292dbf10d.png)
 
