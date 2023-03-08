@@ -11,11 +11,11 @@ Program di atas merupakan implementasi dari algoritma Fibonacci Search yang digu
  
 ![Screenshot 2023-03-08 201831](https://user-images.githubusercontent.com/125839542/223711705-0be94bd7-5e90-4f21-bbdd-30b9d5d9af9c.png)
 
-Program ini dimulai dengan menyatakan Array dimana search akan dilakukan, yaitu array 'var' dan juga menanyakan kepada user apa yang ingin dcari dengan mengisi inputan variabel 'x'
+Program ini dimulai dengan menyatakan Array dimana search akan dilakukan, yaitu array 'var' dan juga menanyakan kepada user apa yang ingin dicari dengan mengisi inputan variabel 'x'
 
 ![Screenshot 2023-03-08 202244](https://user-images.githubusercontent.com/125839542/223712395-2f4faf4f-400f-4739-afa2-e02dad30db06.png)
 
-Lalu setelah variabel 'x' telah input, maka dilanjutkan ke program fibonacci search dengan array 'var' dan 'x' sebagai variabel yang digunakan. Setelah algoritma searching telah mengembalikan hasil pencarian, maka hasil tersebut akan ditampilkan apakah index telah ditemukan atau tidak.
+Lalu setelah variabel 'x' telah input, maka dilanjutkan ke program fibonacci search dengan array 'var' dan 'x' sebagai variabel yang digunakan. Setelah algoritma searching mengembalikan hasil pencarian, maka hasil tersebut akan ditampilkan jika index telah ditemukan atau tidak.
 
 ![Screenshot 2023-03-08 211546](https://user-images.githubusercontent.com/125839542/223722869-7977ef99-4555-4a6d-bcc4-cddb75badf7f.png)
 
@@ -30,7 +30,7 @@ Didalam fungsi Fibonacci Search ini diawali dengan menghitung panjang array meng
 
 ![Screenshot 2023-03-08 203734](https://user-images.githubusercontent.com/125839542/223715251-e51fd40c-8194-4c5b-998e-ebac4aa224bd.png)
 
-Lalu program mulai pencarian yang diawali dengan menghitung indeks berikutnya yang akan dicari (i). Fungsi isinstance() pada kode digunakan untuk mengecek apakah suatu objek merupakan sebuah list. Hal ini dilakukan karena pada bagian program utama, setiap elemen pada list arr dicek satu persatu untuk menentukan apakah elemen tersebut terdapat list didalam list, dan ika elemen ditemukan dalam list yang berada dalam list, index list tersebut ditambahakan.
+Lalu program mulai pencarian yang diawali dengan menghitung indeks berikutnya yang akan dicari (i). Fungsi isinstance() pada kode digunakan untuk mengecek apakah suatu objek merupakan sebuah list. Hal ini dilakukan karena pada bagian program utama, setiap elemen pada list 'var' dicek satu persatu untuk menentukan apakah elemen tersebut terdapat list didalam list, dan jika elemen ditemukan adalah list yang berada dalam list, index list tersebut ditambahakan.
 
 ![Screenshot 2023-03-08 204312](https://user-images.githubusercontent.com/125839542/223716325-02005a23-a3ce-4f9f-adf8-721a9937cefd.png)
 
@@ -42,7 +42,7 @@ Jika nilai elemen lebih besar dari nilai yang dicari, maka lakukan pemindahan fi
 
 ![Screenshot 2023-03-08 204621](https://user-images.githubusercontent.com/125839542/223716904-8a4c27ea-ac14-4f8d-ac44-ab00941363ea.png)
 
-Setelah dijalankannya semua pencarian pada fungsi ini, Jika elemen yang dicari ditemukan, kembalikan indeks elemen tersebut.
+Setelah dijalankannya semua pencarian pada fungsi ini, Jika elemen yang dicari ditemukan, kembalikan indeks elemen tersebut dan jika index tidak ditemukan maka dikembalikan nilai -1.
 
 
  OUTPUT PROGRAM
@@ -50,7 +50,7 @@ Setelah dijalankannya semua pencarian pada fungsi ini, Jika elemen yang dicari d
 
 ![Screenshot 2023-03-08 205325](https://user-images.githubusercontent.com/125839542/223718524-b3e3f074-1962-4fff-81f2-a18292dbf10d.png)
 
-Saat program dijalankan, user diminta untuk memasukan nama aslab yang ingin dicari. Setelah itu user ditanya  apakah penggunaan program selesai atau tidak.
+Saat program dijalankan, user diminta untuk memasukan nama aslab yang ingin dicari. Setelah itu user ditanya apakah penggunaan program selesai atau tidak.
 
 1) Arsel, Avivah, Daiva
 
