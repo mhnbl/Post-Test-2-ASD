@@ -17,9 +17,9 @@ Program ini dimulai dengan menyatakan Array dimana search akan dilakukan, yaitu 
 
 Lalu setelah variabel 'x' telah input, maka dilanjutkan ke program fibonacci search dengan array 'var' dan 'x' sebagai variabel yang digunakan. Setelah algoritma searching telah mengembalikan hasil pencarian, maka hasil tersebut akan ditampilkan apakah index telah ditemukan atau tidak.
 
-![Screenshot 2023-03-08 201855](https://user-images.githubusercontent.com/125839542/223713048-5782b6e2-28f4-403d-9ffa-1a21930483ee.png)
+![Screenshot 2023-03-08 211546](https://user-images.githubusercontent.com/125839542/223722869-7977ef99-4555-4a6d-bcc4-cddb75badf7f.png)
 
-Setelah hasil ada tidaknya pencarian index diberikan, pengguna akana ditanya apakah sudah selesai menggunakan program atau ingin mengulang untuk mencari nama yang lain.
+Setelah hasil ada tidaknya pencarian index diberikan, pengguna akan ditanya apakah sudah selesai menggunakan program atau ingin mengulang untuk mencari nama yang lain.
 
  ALGORITMA SEARCHING
  
